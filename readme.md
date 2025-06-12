@@ -1,3 +1,3 @@
 # Git and Github Course
 
-Crash Danila
+I'm literally Elliot Alderson.
